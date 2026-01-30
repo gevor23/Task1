@@ -1,1 +1,2 @@
-I have simple mini project, where i have menu, big picture, and below smoll pictures, without functional:
+A simple mini project featuring a menu, a main large image, and a row of smaller images below. 
+No functionality is implemented yet.
